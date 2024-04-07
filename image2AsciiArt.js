@@ -468,7 +468,7 @@ function returnMoveDestiDirName(){
 	if(!returnValue) exitZero();
 	return jsDialog.getFormValue(
 		moveDestiDir,
-		returnValue.replaceAll("\n", "\t"),
+		returnValue,
 	);
 };
 
