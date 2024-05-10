@@ -38,12 +38,11 @@ Table of Contents
 
 
 ## Ascii Gallary
-![image](https://github.com/puutaro/image2AsciiArt/assets/55217593/388f804e-abca-4114-9f37-cc6196d637cf)
 
 <a href="https://github.com/puutaro/image2AsciiArt/assets/55217593/388f804e-abca-4114-9f37-cc6196d637cf"><img src="https://github.com/puutaro/image2AsciiArt/assets/55217593/388f804e-abca-4114-9f37-cc6196d637cf" width="300" /></a>
 
 ## Image Gallary
-![image](https://github.com/puutaro/image2AsciiArt/assets/55217593/77801e1e-555b-426c-9b85-bd4ccdb9fb31)
+
 
 <a href="https://github.com/puutaro/image2AsciiArt/assets/55217593/77801e1e-555b-426c-9b85-bd4ccdb9fb31"><img src="https://github.com/puutaro/image2AsciiArt/assets/55217593/77801e1e-555b-426c-9b85-bd4ccdb9fb31" width="300" /></a>
 
