@@ -7,25 +7,17 @@
 # image2AsciiArt.js
 ----------------
 
-Image to ascii art by web image long press  @puutaro
+Image to ascii art by web image long press or list @puutaro
 
 Table of Contents
 -------
 <!-- vim-markdown-toc GFM --> 
 * [Support long press menu table](#support-long-press-menu-table)
 * [Installation](#installation)
-* [Cmd Variables](#cmd-variables)
-	* [PLAY_QUIZ](#play_quiz)
-	* [DISPLAY_GALLERY](#display_gallery)
-	* [convertImageFile2Ascii](#convertimagefile2ascii)
-	* [TARGET_DIR](#target_dir)
-	* [MOVE_OR_DELETE_IMAGE](#move_or_delete_image)
-	* [EDIT_TARGET_DIR_NAME](#edit_target_dir_name)
-* [Setting variables](#setting-variables)
-	* [terminalFontZoom](#terminalfontzoom)
-	* [terminalFontColor](#terminalfontcolor)
-	* [execPlayBtnLongPress](#execplaybtnlongpress)
-	* [execEditBtnLongPress](#execeditbtnlongpress)
+* [Ascii Gallary](#ascii-gallary)
+* [Image Gallary](#image-gallary)
+* [Quiz](#quiz)
+* [Table](#table)
 
 
 ## Support long press menu table
@@ -44,56 +36,22 @@ Table of Contents
 2. Install this fannel by [install repo](https://github.com/puutaro/CommandClick/blob/master/USAGE.md#install-fannel) or QR code
 
 
-## Cmd Variables
---------
 
-### PLAY_QUIZ
-A quiz to guess what kind of image ascii art is
+## Ascii Gallary
+![image](https://github.com/puutaro/image2AsciiArt/assets/55217593/388f804e-abca-4114-9f37-cc6196d637cf)
 
-### DISPLAY_GALLERY
-Display gallery
+<a href="https://github.com/puutaro/image2AsciiArt/assets/55217593/388f804e-abca-4114-9f37-cc6196d637cf"><img src="https://github.com/puutaro/image2AsciiArt/assets/55217593/388f804e-abca-4114-9f37-cc6196d637cf" width="300" /></a>
 
-### convertImageFile2Ascii
-Convert image file to ascii art
+## Image Gallary
+![image](https://github.com/puutaro/image2AsciiArt/assets/55217593/77801e1e-555b-426c-9b85-bd4ccdb9fb31)
 
-| button name | description |
-| ------- | ------- |
-| `file` | select image file |
-| `To` | convert |
+<a href="https://github.com/puutaro/image2AsciiArt/assets/55217593/77801e1e-555b-426c-9b85-bd4ccdb9fb31"><img src="https://github.com/puutaro/image2AsciiArt/assets/55217593/77801e1e-555b-426c-9b85-bd4ccdb9fb31" width="300" /></a>
 
-### TARGET_DIR
-Src image file included dir
+## Quiz
 
-### MOVE_OR_DELETE_IMAGE
-Move or delete image file 
+<a href="https://github.com/puutaro/image2AsciiArt/assets/55217593/a6e109dd-b89d-46ea-bc51-9e165739c454"><img src="https://github.com/puutaro/image2AsciiArt/assets/55217593/a6e109dd-b89d-46ea-bc51-9e165739c454" width="300" /></a>
 
-### EDIT_TARGET_DIR_NAME
-Rename or delete TARGET_DIR
+## Table
 
+<a href="https://github.com/puutaro/image2AsciiArt/assets/55217593/fa9e5089-9288-44a9-8c98-a99f756db42f"><img src="https://github.com/puutaro/image2AsciiArt/assets/55217593/fa9e5089-9288-44a9-8c98-a99f756db42f" width="300" /></a>
 
-## Setting variables
----------
-
-### terminalFontZoom 
-Adjust terminal font size (percentage)
-
-### terminalFontColor
-Adjust terminal font color
-
-### execPlayBtnLongPress
-Execute when play button long press
-
-| type or name | description |
-| ------- | ------- |
-| `WEB_SEARCH` | apear web search bar |
-| `PAGE_SEARCH` | apear page search bar |
-| js file path | execute js file |
-
-### execEditBtnLongPress
-Execute when edit button long press
-
-| type or name | description |
-| ------- | ------- |
-| `WEB_SEARCH` | apear web search bar |
-| `PAGE_SEARCH` | apear page search bar |
-| js file path | execute js file |
